@@ -1,0 +1,18 @@
+# Site settings
+title: 虎扑前端博客
+header-img: img/home-bg.jpg
+email: yuhongfei@hupu.com
+description: "虎扑前端博客"
+baseurl: ""
+url: "http://hupu-frontend.github.io"
+twitter_username: ""
+weibo_username: "wjun29"
+github_username:  HUPU-frontend
+facebook_username:  ""
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
